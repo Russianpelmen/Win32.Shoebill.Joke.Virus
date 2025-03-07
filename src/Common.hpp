@@ -13,7 +13,6 @@
 
 LRESULT CALLBACK WindowProc(HWND hwnd, UINT uMsg, WPARAM wParam, LPARAM lParam);
 
-HWND CreateRuleWindow(HINSTANCE hInstance);
 HWND CreateMainWindow(HINSTANCE hInstance);
 
 WNDCLASSEX InitWndClass(HINSTANCE hInstance);
